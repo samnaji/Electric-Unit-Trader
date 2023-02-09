@@ -1,4 +1,4 @@
-# Energy Trader Model 
+# Energy Unit Trader Model 
 
 This code is a model for multiple runs to predict the target variable using the provided input variables. The model uses a combination of Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Plotly and Supervised AutoML to perform the predictions.
 
