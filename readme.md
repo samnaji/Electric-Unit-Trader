@@ -26,7 +26,10 @@ The following are the input arguments that the code uses to perform the predicti
 - `n_splits`: Number of splits for cross validation. Default: `5`.
 
 ## Input Data Format
+Name of the features have been masked to protect client's data
+
 The CSV file used for reading the data should have the following columns:
+
 - `ForecastIssueDateHourUTC`
 - `DeliveryStartUTC`
 - `predictor_var1`
